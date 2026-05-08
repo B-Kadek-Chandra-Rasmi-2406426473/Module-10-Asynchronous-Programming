@@ -1,0 +1,1 @@
+C:\Users\kadek\IdeaProjects\Module-10-Asynchronous-Programming\tutorial-async-timer\target\debug\tutorial-async-timer.exe: C:\Users\kadek\IdeaProjects\Module-10-Asynchronous-Programming\tutorial-async-timer\src\main.rs
